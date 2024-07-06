@@ -23,9 +23,11 @@
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+
+<h3>Lenguajes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,materialui,c,java,php,py,html,css,js,nodejs,express,mysql,sqlite,firebase,git,github,docker,postman,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,java,php,py,html,css,js,bash&perline=12" />
   </a>
 </p>
 
@@ -43,10 +45,10 @@
   </a>
 </p>
 
-<h3>Lenguajes</h3>
+<h3>Frameworks Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,php,py,html,css,js,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=express&perline=12" />
   </a>
 </p>
 
@@ -54,13 +56,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=12" />
-  </a>
-</p>
-
-<h3>Frameworks Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express&perline=12" />
   </a>
 </p>
 
