@@ -11,9 +11,7 @@
 <p align="left">
 🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 Unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 6 Meses de Experiencia Laboral como Desarrollador WEB Full Stack, +2 años como desarrolador de software freelance
 
 📝 Roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... con ánimos de mucho más
 
