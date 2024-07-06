@@ -55,7 +55,7 @@
 <h3>Bases de Datos</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite,sqlserver,firebase&perline=12" />
   </a>
 </p>
 
