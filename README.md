@@ -19,6 +19,7 @@
 <!--Intro end-->
   </p>
 <br>
+<!--Tecnologias start-->
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
@@ -38,7 +39,7 @@
 <h3>Librerías</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express&perline=12" />
+    <img src="" />
   </a>
 </p>
 
@@ -59,17 +60,20 @@
 <h3>Frameworks Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=express&perline=12" />
   </a>
 </p>
 
 <h3>Herramientas</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker,postman,vscode,linux,ps&perline=12" />
   </a>
 </p>
 
+
+
+<!--Tecnologias end-->
 <br>
 <!-------------------------->
 
