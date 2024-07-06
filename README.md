@@ -32,14 +32,14 @@
 <h3>Frameworks Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,materialui&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react&perline=12" />
   </a>
 </p>
 
 <h3>Librerías</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="" />
+     <img src="https://skillicons.dev/icons?i=materialui&perline=12" />
   </a>
 </p>
 
