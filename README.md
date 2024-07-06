@@ -29,11 +29,6 @@
 </p>
 <br>
 <!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
-
-  </div>
 <br>
 <br><br>
 <br>
