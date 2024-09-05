@@ -11,9 +11,9 @@
 <p align="left">
 🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE
 
-💻 6 Meses de Experiencia Laboral como Desarrollador WEB Full Stack, +2 años como desarrolador de software freelance
+💻 +2 Años de Experiencia Laboral como Ingeniero de Software, Desarrollador WEB, Full Stack Developer
 
-📝 Roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... con ánimos de mucho más
+📝 Roles en el ámbito: project manager, ingeniero de software, desarrollador... líder... emprendedor... programador freelance... con ánimos de mucho más
 
 📫 Contacto: **br.avila05@gmail.com**
 <!--Intro end-->
