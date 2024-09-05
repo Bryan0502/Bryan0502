@@ -27,21 +27,21 @@
 <h3>Lenguajes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,php,py,html,css,js,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,java,php,py,html,css,js,ts,bash&perline=12" />
   </a>
 </p>
 
 <h3>Frameworks Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,angular,astro&perline=12" />
   </a>
 </p>
 
 <h3>Librerías</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=materialui,ionic&perline=12" />
+     <img src="https://skillicons.dev/icons?i=materialui,ant&perline=12" />
   </a>
 </p>
 
