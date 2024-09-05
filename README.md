@@ -41,7 +41,7 @@
 <h3>Librerías</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=materialui,ant&perline=12" />
+     <img src="https://skillicons.dev/icons?i=materialui&perline=12" />
   </a>
 </p>
 
